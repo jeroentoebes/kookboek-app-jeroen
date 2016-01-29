@@ -1,0 +1,26 @@
+<html>
+
+
+   <head>
+   
+   
+     
+   </head>
+   <body> 
+
+  
+   <script>
+  
+	var ingredient_een = prompt ("Geef uw eerste ingredient");
+	var ingredient_twee = prompt ("Geef uw tweede ingredient");
+	var bewerking = prompt ("Hoe wilt u de ingredienten bewerken?");
+	var bewerkingsduur = prompt ("hoe lang wilt u de ingredienten bewerken?");
+	
+	alert(bewerking  +" "+ ingredient_een +" en "+ ingredient_twee +" "+ bewerkingsduur);
+	
+	
+	
+	</script>
+</body>
+
+</html>
